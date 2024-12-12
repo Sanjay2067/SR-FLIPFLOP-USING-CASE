@@ -61,7 +61,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 
-![WhatsApp Image 2024-12-11 at 11 02 01](https://github.com/user-attachments/assets/b66b7f87-c553-4ad8-b927-4f4b48e90d73)
+
+![WhatsApp Image 2024-12-11 at 11 02 16](https://github.com/user-attachments/assets/ce8898b4-0bf2-4554-9fe3-08aefe67fc53)
 
 
 
